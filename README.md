@@ -19,7 +19,7 @@ Mouse control using real-time hand detection. Move the cursor, click, and intera
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/rodin04/cat_ai.git
+git clone https://github.com/rodin04/Mouse_cam.git
 ```
 
 3. Navigate to the project folder.
@@ -41,7 +41,7 @@ cd your_folder_path!!!
 ```
 3. Start python script
 ```bash
-python cat_ai.py
+python mouse_cam.py
 ```
 
 ## Requirements
